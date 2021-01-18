@@ -3,12 +3,7 @@ Este é um repositório teste para ensinar como o Git funciona.
 
 Nova alteração para teste
 
-Primeira alteração do dia 17/01
+limpeza de algumas linhas e commit pelo notebook
 
-Teste para deletar com checkout
+Testes no notebook, segunda linha
 
-Editar mais um pouco
-
-Teste para voltar o commit
-
-teste envio para github
